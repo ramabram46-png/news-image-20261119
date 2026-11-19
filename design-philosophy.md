@@ -56,3 +56,20 @@ full-size read, not the thumbnail.
   replaced by the DATE CHECK + a one-line footer promise.
 - Leads are Shenzhen / Crimean Bridge / GTA VI (the freshest 19 Nov
   developments) instead of the previous day's Bahrain / Kerch / Quad trio.
+
+## v2 — the resubmit (19 Nov, after v1 ranked #446 live)
+The live top-20 study (v2-analysis.md) found the skeleton right and the
+page missing a hook: v1's map was the weakest on the board (light dotted
+grey) and its summit lead was half empty beige. So v2 adds ONE hook
+device — a THE DAY IN UTC strip (overnight GTA unlock · morning APEC
+close · 09:00 UTC the World Court verdict · 14:30 UTC Anthropic's first
+trades · evening the trilateral) — and fixes the soft spots: a dark-navy
+map with filled tan continents and big red pins (crowded pins nudged
+apart with white leader lines), the consensus lead trio (Shenzhen / GTA
+VI with its verified 99 Metacritic score / Anthropic), 10 mediums
+5-across with taller mini-scenes, and the leaders' featured set (Kyiv,
+APEC, Mélenchon, the Great Unconformity) replacing Suneung, Australia
+jobs and the Riyadh missile. 43 stories: 3 leads + 10 mediums + 30 ALSO.
+The summit scene is now a dusk scene — three correct flags, a lit
+skyline, a low sun, three leaders at the table — because the study
+showed the leaders' illustrations are full scenes, not icons.

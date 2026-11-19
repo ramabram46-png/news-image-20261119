@@ -200,3 +200,99 @@ OCEANIA 3 (Australia, Auckland, Sydney). Total 40.
   the 12th dot is the launch itself — place it at New Zealand (first unlock, midnight).
   Dots: 1 Shenzhen, 2 Kerch, 3 Auckland (first unlock), 4 New York, 5 The Hague, 6 Gaza,
   7 Odisha, 8 Antalya, 9 Seoul, 10 Broward, 11 Canberra, 12 Riyadh.
+
+---
+
+# v2 — appended 19 Nov 2026 ~15:40 WIB (resubmit attempt after v1 ranked #446/5,249)
+
+v1 submitted 14:52, live rank #446 at 15:00 — outside top 50. Resubmit replaces it
+(Force_Last). Full top-20 study in v2-analysis.md. What changed in the news since v1
+was built (14:47), each verified against ≥2 sources:
+
+## GTA VI — Metacritic 99 VERIFIED (v1 deliberately omitted it: unverified then)
+- 99/100 on Metacritic, 147–150 critic reviews, ALL positive; ties The Legend of
+  Zelda: Ocarina of Time (1998) as the highest score in the site's history; passes
+  GTA IV's 98. IGN 10/10 ("the single most impressive video game I have ever played").
+  OpenCritic also 99. Sources: asiatoday, tech-ish, yallayou, BusinessWorld, AAP.
+- Pre-orders UPDATED: Sensor Tower now estimates 17.1m units / ~$1.65bn (up from
+  15.9m / $1.54bn); Take-Two shares +6–7.5% Wed; Oppenheimer first-3-days ~$1.85bn;
+  ~7.9m concurrent stream viewers (Streams Charts); 30fps cap, no 60fps mode; no PC.
+- v2 lead: "GTA VI scores 99 — the joint-highest ever" + 17.1m in the numbers strip.
+
+## Kerch — third strike now targets the railway
+- Overnight into 19 Nov, third strike in three days; Aksyonov confirmed on Telegram;
+  traffic suspended; 15–16 explosions heard ~00:50; Ukrainian channels report at least
+  two hits on the RAILWAY part (had survived 16–17 Nov) — NOT officially confirmed.
+  Road span 227m destroyed 16–17 Nov; rail had resumed on one track. BBC + 8 sources.
+
+## Shenzhen / APEC — what happened Thursday
+- Trump spoke at APEC, opposed 'globalist regulation' of AI, announced the trilateral
+  with Xi + Putin later the same day ("historic trilateral meeting"); Xi pledged $20m
+  for APEC cooperation (reported 12:23 WIB). Kremlin: one hour allocated for the
+  three-way meeting, after the plenary; Putin confirmed support for the Shenzhen
+  Declaration draft; leaders expected to adopt it before the meeting closed Thursday.
+  Trump has said Ukraine will be discussed; a US official says very unlikely.
+  (Sources: tafs.uz, asiatoday, Reuters, intelligencereport.)
+
+## ICJ — verdict NOT out at build time (reading 10:00 The Hague = 16:00 WIB)
+- 15-judge bench; President Yuji Iwasawa reads it; final, no appeal; first time a
+  state could be found liable for genocide; ~2/3 chance of at least one breach
+  finding, ~40% full genocide finding (worldwidewatchers analysis). CHECK AGAIN
+  before pushing the v2 commit — if out, update the card with the outcome.
+
+## Anthropic — no price action yet
+- First trade likely US afternoon (Nasdaq opens 09:30 ET = 21:30 WIB). Morningstar
+  fair value $92; New Street target $105; only ~5% of shares in public float.
+  Card stays "starts trading today" ($83, $81.3bn, ~$1.5tn, 980m shares).
+
+## Akvan — 200,000 VERIFIED (v1's 72,000 was Odisha-evacuated only)
+- Odisha identified 2,04,070 people for possible evacuation across 8 districts
+  (Ganjam 1,21,597) — Special Relief Commissioner; particle.news + dailyjagran +
+  thesbharat. Landfall revised: between Narsapur and Puri ~noon Fri 20 Nov, winds
+  90–100 gusting 110; 3rd Bay of Bengal cyclone in 21 days.
+
+## New featured stories (leaders' consensus, verified)
+- **Kyiv / Ukraine watches Shenzhen**: war not expected to be raised at the summit
+  (Reuters — v1 research #40); Kyiv fears being carved up. Trump said he would
+  discuss it; US official says unlikely — attribute both.
+- **APEC Shenzhen Declaration**: 21 economies back digital trade + Asia-Pacific
+  community roadmap (targeted for adoption 19 Nov; Putin backs draft — see above).
+- **Mélenchon**: Justice Minister Gérald Darmanin told LCI Tue: Mélenchon could win
+  the 2027 second round if he faces Le Pen; "a huge shock for our country"; polls
+  consistently show Le Pen winning any runoff (Reuters 18 Nov 10:12 UTC + carriers).
+  Broke Wed — carried by 3 top-5 entries as a Thursday medium; body attributes it.
+- **Earth's missing billion years**: Nature paper 4 Nov (Dhungana + Flament,
+  Wollongong): mantle convection lifted Laurentia/Baltica/North China ~1bn–540m
+  years ago; Snowball Earth glaciers (720–635m yrs) ground them down; then
+  subsidence buried the scar. Gap up to 1.2bn years at the Grand Canyon; 150-year
+  mystery. Sources: Nature (DOI 10.1038/s41586-026-11156-5), Smithsonian 16 Nov,
+  Scientific American 7 Nov.
+
+## ALSO fixes (v1 soft spots)
+- **Herzog CORRECTED**: he tasked Eisenkot on 8 Nov, not today. Thursday news: the
+  Eisenkot-led bloc's formation talks heated up (ANI 18 Nov) + Eisenkot open to
+  Netanyahu joining his government (Al Jazeera 18 Nov). Line reworded accordingly.
+- **La Paz El Niño DROPPED** (not verifiable in search) → replaced by verified
+  "SHENZHEN — Trump rejects 'globalist regulation' of AI" (tafs.uz, 19 Nov).
+- **Libya precise now**: 4m+ narcotic pills + 29kg cocaine/hashish seized in Derna,
+  Tue 18 Nov (Reuters via 10 carriers).
+- **Banxico**: minutes due 19 Nov; the 3–2 cut to 6.25% was 5 Nov (nuestrojalisco,
+  Reuters 12 Nov). Line kept as the minutes' content.
+- **Sydney data centres VERIFIED**: Climate Council report (released 19 Nov): nine
+  dirtiest proposals could add 39.7m t of climate pollution a year by 2035.
+- **London Grid VERIFIED**: National Grid debunked a viral AI-made poster claiming a
+  blackout on Thu 19 Nov (X post 16 Nov; techtimes 17 Nov).
+- Remaining [L] one-liners (Paris protests, Delhi schools, Nairobi drought, Madrid
+  strike, Panama arrest, Sindhu, Musk, Berlin agent, OFAC, Vance, Bapco, Riyadh
+  leaders, Sacramento river, Auckland first GTA, Ottawa, Manila, Jakarta, Tokyo,
+  US–Venezuela, Bogotá) appear in 2+ top-5 leaders' ALSO lists — same standard as v1.
+  Auckland first-to-play is independently verified by the GTA sources above.
+
+## Pre-push check (~15:50 WIB, before committing v2)
+- **ICJ verdict NOT out yet** (reading 10:00 CET = 16:00 WIB; all sources
+  still say "will deliver") — the ICJ card stays "reads the judgment" and
+  the UTC strip stays "09:00 UTC World Court reads the Rohingya judgment".
+- **APEC Declaration adoption NOT yet confirmed** (expected before the
+  meeting closes Thu; Putin backs the draft — asiatoday 12:23 WIB) —
+  headline softened from "APEC adopts the Shenzhen Declaration" to
+  "APEC set to adopt the Shenzhen Declaration".
